@@ -1,4 +1,6 @@
 # Ignore artifacts:
+config
+scripts
 build
 coverage
 node_modules
